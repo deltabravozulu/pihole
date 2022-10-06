@@ -7,7 +7,7 @@ Ultimately, it's just a lot of block lists concatenated, cleaned, and deduped. I
 2. [bigcombined_2_1025666-2051330.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_2_1025666-2051330.txt)
 3. [bigcombined_3_2051331-3076995.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_3_2051331-3076995.txt)
 4. [bigcombined_4_3076995-4102660.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_4_3076995-4102660.txt)
-5. [bigcombo_404.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombo_404.txt)
+5. [https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_404.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_404.txt)
 
 If you happen to have a bunch of hosts files to combine and dedupe, here's the clumsy way I did it.
 
