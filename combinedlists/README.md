@@ -1,6 +1,8 @@
 Here are a bunch of combined hosts files I found in various repositories.
 Ultimately, it's just a lot of block lists concatenated, cleaned, and deduped. It consists of 4102660 sites split into 4 files, 1025665 lines each along with the lists that are no longer online.
 
+[Source](https://github.com/deltabravozulu/pihole/blob/main/combinedlists/bigcombined_source.md)
+
 1. [bigcombined_1_0000001-1025665.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_1_0000001-1025665.txt)
 2. [bigcombined_2_1025666-2051330.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_2_1025666-2051330.txt)
 3. [bigcombined_3_2051331-3076995.txt](https://raw.githubusercontent.com/deltabravozulu/pihole/main/combinedlists/bigcombined_3_2051331-3076995.txt)
