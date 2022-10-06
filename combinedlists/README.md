@@ -1,4 +1,7 @@
 Here are a bunch of combined hosts files I found in various repositories, some long gone.
+Ultimately, it's just a lot of block lists concatenated, cleaned, and deduped. Consists of 4102660 sites split into 4 files, 1025665 lines each.
+
+
 If you happen to have a bunch of hosts files to combine and dedupe, here's the clumsy way I did it.
 
 First, install rexreplace, a nice regex tool:
